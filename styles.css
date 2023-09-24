@@ -1,1 +1,11 @@
-
+div.hero-section{
+    height: 600px;
+    width: 1350px;
+    background-image: url(fullstack.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hero-section>p{
+    text-align: ;
+}
