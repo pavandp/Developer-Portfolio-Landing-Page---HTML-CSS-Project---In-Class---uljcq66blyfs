@@ -60,7 +60,6 @@ p>strong{
   }
   .bottom-section{
     display: flex;
-    flex-wrap: wrap;
     justify-content: center;
     gap: 20px;
     color: white;
